@@ -1,4 +1,4 @@
-- 👋 Hi, I’m omarioux
+- 👋 Hi, I’m omar
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning full stack web development
 - 📫 you can contact via gmail omariohnasef@gmail.com
